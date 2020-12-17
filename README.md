@@ -23,10 +23,6 @@ To run tests:
 Run coverage report:
 `yarn test --coverage --watchAll false`
 
-## Heroku
-
-The deploy version can be accessed [here]().
-
 ## Note
 
 The images using in the application are from Venturus website.
